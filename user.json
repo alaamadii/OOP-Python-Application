@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": 235,
+        "name": "Ali",
+        "borrowed_item": [
+            "1984"
+        ]
+    },
+    {
+        "user_id": 75432,
+        "name": "Sara",
+        "borrowed_item": []
+    },
+    {
+        "user_id": 867,
+        "name": "Huda",
+        "borrowed_item": [
+            "Inception"
+        ]
+    },
+    {
+        "user_id": 8756,
+        "name": "Ahmed",
+        "borrowed_item": []
+    }
+]

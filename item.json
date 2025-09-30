@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Book",
+        "title": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "type": "DVD",
+        "title": "Inception",
+        "author": "Christopher Nolan"
+    },
+    {
+        "type": "Magazine",
+        "title": "National Geographic",
+        "author": "Various"
+    },
+    {
+        "type": "Book",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    }
+]
